@@ -1,0 +1,11 @@
+li {
+  list-style-type: dash;
+}
+
+button {
+  margin: 0 10px;
+}
+
+label {
+  margin-right: 10px;
+}
