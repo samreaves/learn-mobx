@@ -5,9 +5,11 @@
     "brace-style": ["error", "stroustrup"],
     "import/no-extraneous-dependencies": [error, { devDependencies: true }],
     "max-len": "off",
+    "no-mixed-operators": "off",
     "one-var": off,
     "one-var-declaration-per-line": off,
-    "padded-blocks": "off"
+    "padded-blocks": "off",
+    "react/sort-comp": "off"
   },
   "env": {
     "browser": true
